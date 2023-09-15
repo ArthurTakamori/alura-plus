@@ -6,7 +6,7 @@
 <br><br>
   <img src="https://img.shields.io/badge/status-finished-blue">
 </p>
-<h2 align="center"> Description
+<h2 align="center"> Description:
   <br><br>
   <p> This project was developed during a Digital Course offered by Alura regarding HTML/CSS concepts such as Flexbox, Grid, Responsive Web Design, etc.</p>
 </h2>
